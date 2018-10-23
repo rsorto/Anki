@@ -1,0 +1,1422 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "59329206-d71f-11e8-b327-3c15c2bd076a",
+    "deck_config_uuid": "59375d40-d71f-11e8-841b-3c15c2bd076a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "59375d40-d71f-11e8-841b-3c15c2bd076a",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "paste-68a097458ad3c8e9240267c57e53fe7261e2b82e.png",
+        "paste-38a8e51618e43a579b1fa00671e541ef484bf9e9.png",
+        "paste-992e82bb6bc23fc821c7c0c629ef0af18651c43b.png",
+        "paste-f89792151fbba021110a2ee9f5eb6915ef5fdab4.png",
+        "paste-8ffb464e0997b534dc7962ab664f20c2fc84e1de.png",
+        "paste-ba7a5fec673a009596680e96ee2b7cf533db864c.png",
+        "paste-8312e3cbaebcad833709505346ed11e4e15c8eef.png",
+        "paste-bb6d2a3f643918a3f5803d529b1bfdff702e9ca3.png",
+        "paste-979fb22ef895df7c9523290f2c0b96bb57e070fd.png",
+        "paste-b40e035bec59b7097d289024f9e70496f376ecd4.png",
+        "paste-0e965c8321d165418152a1255ed9fdbb0b57cb8f.png",
+        "paste-a27d319c2636e3cb209021aeaa1b505a0e8c0a92.png",
+        "paste-625e0f0784bce70ecb8f2030d4aebacc35ce6432.png",
+        "paste-199951dbd05daa8bf225bc2eb0c01001407cf5dc.png",
+        "paste-5923841d34ecc71963c1c495316ef057789a2f03.png",
+        "paste-e0cd39f8f1d34c242ca7a385a131d5c4c5fa8e77.png",
+        "paste-67f7b6b094249e5c15936cf9f518a2808d8702fc.png",
+        "paste-03a8bf1e786d2c913307fc050dfe01550f3690da.png",
+        "paste-031c5f79f1f2a3c4ae07aa9a4fe4944da59f9544.png",
+        "paste-6f7551601c4633dac1cd1308787e79954d6193ba.png",
+        "paste-c38439fa6d024963744ccf914b40cf03b1ae48b5.png",
+        "paste-53ec4f288ed75779961cb74f28fbdfdd4e41c537.png",
+        "paste-e9ce1cd4414f0b0a6005f9242e80c890772f6580.png",
+        "paste-6ea8f2bd0f4dd5f2c5a847565bcb1b5ca59d4846.png",
+        "paste-7ce4eaf744953b0f355c24752f9d2b66bff60a02.png",
+        "paste-d8c63edfc4f300ea9ca0f2b98f222c24c8782379.png",
+        "paste-da045ecf2e47f8317bd40035cdd434be3c623f35.png",
+        "paste-8fc086a43450e28b30eac4f8127a55bd677a6ce2.png",
+        "paste-3cc86aff1b0f348ff5a2b6282d4d80966e220c6e.png",
+        "paste-84c8721388e28615bbace3b110d103c0f71083da.png",
+        "paste-51b2402d8a6eb52eb85d47f44840ece466aa408e.png",
+        "paste-0742980c54f971a47627259b157a969a7d45c683.png",
+        "paste-a7edaa09cbf38fa9fd8121a00724dc9674e78ec8.png",
+        "paste-5cc2e9077732efe8eabe0b11b118e42816cf6455.png",
+        "paste-92dfd5c2592e69e587b322db8d1eed307740280c.png",
+        "paste-33e0d8c78d6e47ce9bf1e9747d565d44f2381b9d.png",
+        "paste-a01806b7e17fa534cd5ba0fb6e5fd525635a447f.png",
+        "paste-8ce3ae6a58fcd315928f39b1b491346b963b5e62.png",
+        "paste-3f14ec29838f5a614cbbcf136272ec27753fa495.png",
+        "paste-f011c9790fab3aadac4663ee56f8f70d7bdad943.png",
+        "paste-1b50a6bf34b30d8e05dd8f9af7b997e8531b14bd.png",
+        "paste-f69a7b7afcc408a1ac3214b850135e7438a064f5.png",
+        "paste-c7b641a9350fdbd88f505bbbba8eec5005c45003.png",
+        "paste-a137356205ddef41f8bdcfbd07bda5257d83f9bc.png",
+        "paste-30d3f6452c324ceada201aee6bfdfb1ae5d4c76c.png",
+        "paste-7cf3618239b4f12fd3e2b55bbce49f584d3759ab.png"
+    ],
+    "mid": "1534867634594",
+    "name": "Exam 4::Biochemistry Ch. 13",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "More",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "HWCH13"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n<br/>\n<br/>\n<div style='font-family: Arial; font-size: 20px;'>{{More}}</div>\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n",
+                    "scratchPad": 1
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. bioenergetics",
+                "Quantitative study of energy transductions that occur in living cells and of the nature and function of the chemical processes underlying these transductions.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QNyQWEzjsD",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. calorie",
+                "The amount of heat required to raise the temperature of 1.0 g of water from 14.5 to 15.5 degrees celsius. <br><br>One calorie (cal) = 4.184 J",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d|.2MF2I`,",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. endergonic",
+                "consumes energy (delta G is positive)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ei$?O|KJHP",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. enthalpy",
+                "Heat content of the reacting system (H)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lO3c)BH6v*",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. entropy",
+                "Quantitative expression for the randomness or disorder (S)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g]1Y?BtN+p",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. equilibrium",
+                "The state of a system in which not further net change is occurring; the free energy is at a minimum",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LCO73|+PI[",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. exergonic",
+                "release of free energy (delta G is negative)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FrAyG6Gy_z",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. first law of thermodynamics",
+                "For any physical or chemical change, the total amount of energy in the universe remains constant.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pGsC^6n(&8",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. Gibbs free energy",
+                "The energy used by cells",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d1_b)w1*(k",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. joule",
+                "Standard units of energy<br><br>The units of ΔG and ΔH are JOULES/mole or calories/mole (recall that 1 cal = 4.184 J)<br><br>units of entropy are joules/mole·Kelvin (J/mol·K)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hqxB3`^uq&",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. kilocalorie",
+                "biochemists and nutritionists sometimes express ΔG′° values in kilocalories per mole. <br><br>To convert kilojoules to kilocalories, divide the number of kilojoules by 4.184.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xY0MR!Dfe,",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. kilojoule",
+                "To convert kilojoules to kilocalories, divide the number of kilojoules by 4.184.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lhN!O2{3:$",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. reacting system",
+                "Collection of matter that is undergoing a particular process",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x.QRKyi,SH",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. second law of thermodynamics",
+                "In all natural processes, the entropy of the universe increases.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A3|K2}{Uxr",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. standard state",
+                "Under standard conditions (298 K = 25 °C), when reactants and products are initially present at 1 M concentrations or, for gases, at partial pressures of 101.3 kilopascals (kPa), or 1 atm, the force driving the system toward equilibrium is defined as the standard free-energy change, ΔG°. By this definition, the standard state for reactions that involve hydrogen ions is [H+] = 1 M, or pH 0.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A5w&G{>+|$",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. state function",
+                "A state function is a property whose value does not depend on the path taken to reach that specific value.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h8`ebrRt0c",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1. surroundings",
+                "Anything outside of the reacting system. (System + surroundings = Universe)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d]Y-QXdeOs",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2. Describe what information regarding biochemical processes can be obtained from thermodynamics",
+                "1. Prediction of the direction of the chemical reaction<br>2. The exact equilibrium position<br>3. The maximum amount of work that can be performed at constant temperature and pressure.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q1?Y5QFh:5",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3. Explain the difference between ∆G, ∆G⁰, and ∆G'⁰",
+                "delta G is the actual free energy change<br><br>delta G not - is the standard free energy change<br><br>delta G' not - is the standard free energy change with one define non-standard condition<br><br>[H+] = 1x10^-7<br>[Mg2+]",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jWr`Pq+1,Q",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4. Calculate ∆G°, ∆G'°, and ∆G given the appropriate information.",
+                "PROBLEMS",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q$nuA.rP&f",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5. Calculate Keq, (K'eq) from ∆G° (∆G'°) or vice versa",
+                "PROBLEM",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jW[V#>t^Z,",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6. Identify the general characteristics of the five categories of reactions in living cells.",
+                "1. Reactions that make or break C-C bonds<br>Heterolytic cleavage of a C—C bond yields a carbanion and a carbocation (Fig. 13-1). Conversely, the formation of a C—C bond involves the combination of a nucleophilic carbanion and an electrophilic carbocation.<br><br>2. Internal rearrangements, isomerizations, and eliminations<br>IR- intramolecular rearrangement in which redistribution of electrons results in alterations of many different types without a change in the overall oxidation state of the molecule.<br><br>Isomerizations - electron movements<br><br>Eliminations - something being eliminated from reactants.<br><br>3. Free-radical reactions<br>Once thought to be rare, the homolytic cleavage of covalent bonds to generate free radicals has now been found in a wide range of biochemical processes.<br><br>Includes isomerizations certain radical-initiated decarboxylation reactions, some reductase reactions, and some rearrangement reactions,<br><br>4. Group transfers<br>The transfer of acyl, glycosyl, and phosphoryl groups from one nucleophile to another is common in living cells.<br><br>5. Oxidation-reduction reactions<br>In many biological oxidations, a compound loses two electrons and two hydrogen ions.Oxidation reactions generally release energy (think of camp fires: the compounds in wood are oxidized by oxygen molecules in the air).<br><br>Every oxidation must be accompanied by a reduction, in which an electron acceptor acquires the electrons removed by oxidation.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m_;B.@zF7?",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7. electrophile",
+                "(electron-deficient functional groups that seek electrons). <br><br>Nucleophiles combine with and give up electrons to electrophiles.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qy&:EhryP#",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7. heterolytic cleavage",
+                "In heterolytic cleavage, which is more common, one atom retains both bonding electrons.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N9O8}bW!$$",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7. homolytic cleavage",
+                "In homolytic cleavage, each atom leaves the bond as a radical, carrying one unpaired electron.<br><br>Homolytic cleavage of covalent bonds to generate free radicals occurs in some pathways, such as in certain isomerization, decarboxylation, reductase, and rearrangement reactions.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k+6J{_TC$~",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7. nucleophile",
+                "(functional groups rich in and capable of donating electrons) <br><br>Nucleophiles combine with and give up electrons to electrophiles.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B-:;;}{y%,",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7. radical",
+                "carbons having one unpaired electron or uncharged hydrogen atoms",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K+U2!;8A*I",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8. Explain the importance of coupled processes to living systems",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P2.q?H!L5C",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9. Describe the chemical reasons for the large negative ∆G'° values for the hydrolysis of the high-energy phosphate and thioester compounds",
+                "1. ADP has lower free energy than ATP because fewer (-) charges are next to each other.<br>2. Pi has several resonance structures. This contributes to stability.<br>3. Greater degree of solvation (hydration) of the products (ADP and Pi) relative to the reactant (ATP). Splitting allows for greater degree of hydration.<br><br>1. The bond strain in reactants due to electrostatic repulsion is relieved by charge separation. <br>2. The products are stabilized by ionization.<br>3. The products are stabilized by isomerization (tautomerization).<br>4. The products are stabilized by resonance stabilization. <br>5. Products have greater degree of hydration.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u@&?B4:DtD",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10. Explain why ATP is described as being thermodynamically unstable, yet kinetically stable.",
+                "- ATP is thermodynamically unstable in aqueous solution, but kinetically stable.<br>-It is thermodynamically unstable as seen in the negative ∆G value it provides (-30.5 kJ/mol).<br>-It is kinetically stable because it has a large activation energy (200-400 kJ/mol) that is required for uncatalyzed cleavage of its phosphoanhydride bonds.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iB*|!o,ur.",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "11. Predict the product of hydrolysis reactions involving high-energy compounds.",
+                "Pyruvate in enol and keto forms and a Pi.<br><br>Pi and 3-phosphoglyceric acid. Then it ionizes to yield H⁺ and 3-phosphoglycerate.<br><br>Pi and Creatine.<br><br>CoASH and acetic acid then Acetic acid then ionization to H⁺ and Acetate.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q~.Q%1XtvN",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "12. Explain the importance of nucleoside diphosphate kinase, adenylate kinase, and creatine kinase in maintaining the energy charge of cells.",
+                "Nucleoside diphosphate kinase carries phosphoryl groups from ATP to other nucleotides<br><br>Adenylate kinase - is a phosphotransferase enzyme that catalyzes the interconversion of adenine nucleotides (ATP, ADP, and AMP). By constantly monitoring phosphate nucleotide levels inside the cell, ADK plays an important role in cellular energy homeostasis.<br><br>Creatine kinase - CK catalyses the conversion of creatine and utilizes adenosine triphosphate (ATP) to create phosphocreatine (PCr) and adenosine diphosphate (ADP). This CK enzyme reaction is reversible and thus ATP can be generated from PCr and ADP.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CAI^Vhg2,n",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13. conjugate redox pair",
+                "Fe 2+ and Fe 3+ is an example",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jqZskSljqh",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13. dehydrogenation",
+                "Dehydrogenation is a chemical reaction that involves the removal of hydrogen from an organic molecule.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qg_-SoJJKB",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13. electromotive force",
+                "to know what direction the electrons are moving.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Gdi6[J;x[e",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13. flavoproteins",
+                "FMN and FAD are usually very tightly bound to the enzymes called flavoproteins, for which they serve as prosthetic groups",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JEZ8WO|H^6",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13. reducing equivalent",
+                "reducing equivalent refers to any number of chemical species which transfer the equivalent of one electron in redox reactions. (lone electron, hydrogen atom)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t}:ZB|,0rB",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13. standard reduction potential",
+                "Eo.<br>A comparable measure of the tendency of a compound to gain electrons. measured in volts",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KuC`7<$4=j",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "14. Describe how standard reduction potentials are obtained and how they are used to determine ∆G'° for a reaction.",
+                "From table 13.7 LOL<br><br>if E is + then it takes electrons, if E is - then it donate electrons<br><br>In a spontaneous reaction, electrons are donated by the half reaction with the more negative E'o and are accepted y the reaction with the more positive E'o<br><br>Energy made available by this spontaneous electron transfer is proportional to delta G'o<br><br>delta G'o = -n(number of e transferred)F(Faradays constant - 96,480 J/V x mol)(deltaE'o)<br><br>(deltaE'o) = E'o(acceptor) - E'o(donor)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rxM#kv,xaA",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "15. Explain the meaning of E'°.",
+                "Same as Eo except in a pH environment of 7",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yQ@S/Ik3rg",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "16. Explain the role of NAD⁺/NADH and NADP⁺/NADPH in metabolism.",
+                "In many cells NAD⁺/NADH is high; by contrast, NADPH is generally present at higher concentration then NADP⁺<br><br>NAD⁺ generally functions in OXIDATIONS - usually as part of a catabolic reaction<br><br>NADPH is the usual coenzyme in REDUCTIONS - nearly always as part of an anabolic reaction",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BS/Pd{KxCV",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "17. Explain why niacin is needed by humans and the results of niacin deficiency.",
+                "niacin can improve cholesterol levels and lower cardiovascular risks.<br><br>Deficiency leads to PELLRGRA which is rough skin in italian<br>-Diarrhea<br>-Dementia<br>-dermatitis<br><br>eventually death",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rohW04Zuyg",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "18. Explain why riboflavin is needed by humans and role of flavin nucleotides.",
+                "helps break down proteins, fats, and carbohydrates. It plays a vital role in maintaining the body's energy supply. Riboflavin helps convert carbohydrates into adenosine triphosphate (ATP).",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gqW]I<,)Y?",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "ObjectivesEx4"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>2. Calculation of ΔG<sup>′°</sup>&nbsp;from an Equilibrium Constant&nbsp;</b></div><div>Calculate the standard free-energy change for each of the following metabolically important enzyme-catalyzed reactions, using the equilibrium constants given for the reactions at 25 °C and pH 7.0.<br></div><div><br></div><img src=\"paste-5cc2e9077732efe8eabe0b11b118e42816cf6455.png\">",
+                "<img src=\"paste-03a8bf1e786d2c913307fc050dfe01550f3690da.png\"><br><div><img src=\"paste-68a097458ad3c8e9240267c57e53fe7261e2b82e.png\"><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "re&llHu?o?",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-38a8e51618e43a579b1fa00671e541ef484bf9e9.png\">",
+                "<img src=\"paste-8312e3cbaebcad833709505346ed11e4e15c8eef.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vj;_aS`FaP",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-f89792151fbba021110a2ee9f5eb6915ef5fdab4.png\">",
+                "<img src=\"paste-6ea8f2bd0f4dd5f2c5a847565bcb1b5ca59d4846.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jLyMvWc9CN",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-bb6d2a3f643918a3f5803d529b1bfdff702e9ca3.png\">",
+                "<img src=\"paste-1b50a6bf34b30d8e05dd8f9af7b997e8531b14bd.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "[<SMhQuRL",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-a137356205ddef41f8bdcfbd07bda5257d83f9bc.png\">",
+                "<img src=\"paste-f011c9790fab3aadac4663ee56f8f70d7bdad943.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q[9->Y;.pX",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>8. Dependence of ΔG&nbsp;on pH&nbsp;</b><div>The free energy released by the hydrolysis of ATP under standard conditions is −30.5 kJ/mol. If ATP is hydrolyzed under standard conditions except at pH 5.0, is more or less free energy released? Explain.</div>",
+                "<div>Less; the overall equation for ATP hydrolysis can be approximated as</div><div><img src=\"paste-3f14ec29838f5a614cbbcf136272ec27753fa495.png\"><br></div><div><div>(This is only an approximation, because the ionized species shown here are the major, but not</div> <div>the only, forms present.) Under standard conditions (i.e., [ATP] =[ADP] =[P<sub>i</sub><span style=\"font-size: 16.6667px;\">]</span>&nbsp;1 M), the</div> <div>concentration of water is 55 M and does not change during the reaction. Because H+ ions are</div> <div>produced in the reaction, the lower the pH at which the reaction proceeds—that is, the higher</div> <div>the [H+]—the more the equilibrium shifts toward reactants. As a result, at lower pH the reaction</div> <div>does not proceed as far toward products, and less free energy is released.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iyd<yzGU(0",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>9. The ΔG'<sup>ο</sup> for Coupled Reactions&nbsp;</b></div><div>Glucose 1-phosphate is converted into fructose 6-phosphate in two successive reactions:<img src=\"paste-992e82bb6bc23fc821c7c0c629ef0af18651c43b.png\" style=\"background-color: rgb(255, 255, 255);\"></div><div>Using the ΔG′° values in&nbsp;Table 13-4, calculate the equilibrium constant,&nbsp;K′eqKeq′, for the sum of the two reactions:<br></div><div><img src=\"paste-199951dbd05daa8bf225bc2eb0c01001407cf5dc.png\"><br></div>",
+                "<img src=\"paste-7ce4eaf744953b0f355c24752f9d2b66bff60a02.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cPl%X9$XA-",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>10. Effect of [ATP]/[ADP] Ratio on Free Energy of Hydrolysis of ATP</b><div>&nbsp;Using Equation 13-4, plot ΔG&nbsp;against ln&nbsp;Q&nbsp;(mass-action ratio) at 25 °C for the concentrations of ATP, ADP, and P<sub>i</sub>&nbsp;in the table below. ΔG′° for the reaction is −30.5 kJ/mol. Use the resulting plot to explain why metabolism is regulated to keep the ratio [ATP]/[ADP] high.</div><div><br></div><div><img src=\"paste-a27d319c2636e3cb209021aeaa1b505a0e8c0a92.png\"><br></div>",
+                "<img src=\"paste-ba7a5fec673a009596680e96ee2b7cf533db864c.png\">",
+                "<img src=\"paste-30d3f6452c324ceada201aee6bfdfb1ae5d4c76c.png\">"
+            ],
+            "flags": 0,
+            "guid": "dU;<$Ap{==",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "11. Strategy for Overcoming an Unfavorable Reaction: ATP-Dependent Chemical CouplingThe phosphorylation of glucose to glucose 6-phosphate is the initial step in the catabolism of glucose. The direct phosphorylation of glucose by P<sub>i</sub>&nbsp;is described by the equation<br><div><img src=\"paste-6f7551601c4633dac1cd1308787e79954d6193ba.png\"><br></div><div><div>(a) Calculate the equilibrium constant for the above reaction at 37 °C. In the rat hepatocyte, the physiological concentrations of glucose and P<sub>i</sub>&nbsp;are maintained at approximately 4.8 mM. What is the equilibrium concentration of glucose 6-phosphate obtained by the direct phosphorylation of glucose by P<sub>i</sub>? Does this reaction represent a reasonable metabolic step for the catabolism of glucose? Explain.</div><div>(b) In principle, at least, one way to increase the concentration of glucose 6-phosphate is to drive the equilibrium reaction to the right by increasing the intracellular concentrations of glucose and P<sub>i</sub>. Assuming a fixed concentration of P<sub>i</sub>&nbsp;at 4.8 mM, how high would the intracellular concentration of glucose have to be to give an equilibrium concentration of glucose 6-phosphate of 250&nbsp;μM&nbsp;(the normal physiological concentration)? Would this route be physiologically reasonable, given that the maximum solubility of glucose is less than 1&nbsp;M?</div><div>(c) The phosphorylation of glucose in the cell is coupled to the hydrolysis of ATP; that is, part of the free energy of ATP hydrolysis is used to phosphorylate glucose:</div></div><div><img src=\"paste-5923841d34ecc71963c1c495316ef057789a2f03.png\"><br></div><div><div>Calculate&nbsp;K′eqKeq′&nbsp;at 37 °C for the overall reaction. For the ATP-dependent phosphorylation of glucose, what concentration of glucose is needed to achieve a 250&nbsp;μM&nbsp;intracellular concentration of glucose 6-phosphate when the concentrations of ATP and ADP are 3.38 mM&nbsp;and 1.32 mM, respectively? Does this coupling process provide a feasible route, at least in principle, for the phosphorylation of glucose in the cell? Explain.</div><div>(d) Although coupling ATP hydrolysis to glucose phosphorylation makes thermodynamic sense, we have not yet specified how this coupling is to take place. Given that coupling requires a common intermediate, one conceivable route is to use ATP hydrolysis to raise the intracellular concentration of P<sub>i</sub>&nbsp;and thus drive the unfavorable phosphorylation of glucose by P<sub>i</sub>. Is this a reasonable route? (Think about the solubility product,&nbsp;K<sub>sp</sub>, of metabolic intermediates.)</div><div>(e) The ATP-coupled phosphorylation of glucose is catalyzed in hepatocytes by the enzyme glucokinase. This enzyme binds ATP and glucose to form a glucose-ATP-enzyme complex, and the phosphoryl group is transferred directly from ATP to glucose. Explain the advantages of this route.</div></div>",
+                "<img src=\"paste-8ffb464e0997b534dc7962ab664f20c2fc84e1de.png\"><br><div><img src=\"paste-c38439fa6d024963744ccf914b40cf03b1ae48b5.png\"><br></div><div><div>(d) No; this is not reasonable. When glucose is at its physiological level, the required Pi concentration</div> <div>would be so high that phosphate salts of divalent cations would precipitate out.</div> <div>(e) Direct transfer of the phosphoryl group from ATP to glucose takes advantage of the high</div> <div>phosphoryl group transfer potential of ATP and does not demand that the concentration</div> <div>of intermediates be very high, unlike the mechanism proposed in&nbsp;(d). In addition, the</div> <div>usual benefits of enzymatic catalysis apply, including binding interactions between the</div> <div>enzyme and its substrates; induced fit leading to the exclusion of water from the active</div> <div>site, so that only glucose is phosphorylated; and stabilization of the transition state.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Mdy)xyD,7o",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>12. Calculations of ΔG<sup>′°</sup>&nbsp;for ATP-Coupled Reactions&nbsp;</b><div>From data in&nbsp;Table 13-6, calculate the ΔG′° value for the following reactions:<br></div><div><img src=\"paste-8ce3ae6a58fcd315928f39b1b491346b963b5e62.png\"><br></div><div><br></div>",
+                "<img src=\"paste-53ec4f288ed75779961cb74f28fbdfdd4e41c537.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iA{0L]2Rh[",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>13. Coupling ATP Cleavage to an Unfavorable Reaction&nbsp;</b></div><div>To explore the consequences of coupling ATP hydrolysis under physiological conditions to a thermodynamically unfavorable biochemical reaction, consider the hypothetical transformation X → Y, for which ΔG′° = 20.0 kJ/mol.</div><div>(a) What is the ratio [Y]/[X] at equilibrium?</div><div>(b) Suppose X and Y participate in a sequence of reactions during which ATP is hydrolyzed to ADP and P<sub>i</sub>. The overall reaction is</div><div><img src=\"paste-7cf3618239b4f12fd3e2b55bbce49f584d3759ab.png\"><br><div>Calculate [Y]/[X] for this reaction at equilibrium. Assume that the temperature is 25 °C and the equilibrium concentrations of ATP, ADP, and P<sub>i</sub>&nbsp;are 1&nbsp;M.</div><div>(c) We know that [ATP], [ADP], and [P<sub>i</sub>] are&nbsp;not&nbsp;1&nbsp;M&nbsp;under physiological conditions. Calculate [Y]/[X] for the ATP-coupled reaction when the values of [ATP], [ADP], and [P<sub>i</sub>] are those found in rat myocytes (Table 13-5).</div></div>",
+                "<img src=\"paste-a01806b7e17fa534cd5ba0fb6e5fd525635a447f.png\"><br><div><img src=\"paste-b40e035bec59b7097d289024f9e70496f376ecd4.png\"><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fsxo{{7n*y",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>14. Calculations of ΔG&nbsp;at Physiological Concentrations&nbsp;</b><div>Calculate the actual, physiological ΔGfor the reaction<br></div><div><img src=\"paste-51b2402d8a6eb52eb85d47f44840ece466aa408e.png\"><br></div><div><div>at 37 °C, as it occurs in the cytosol of neurons, with phosphocreatine at 4.7 mM, creatine at 1.0 mM, ADP at 0.73 mM, and ATP at 2.6 mM.</div></div>",
+                "<img src=\"paste-d8c63edfc4f300ea9ca0f2b98f222c24c8782379.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M5yJ-Hl?DC",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>15. Free Energy Required for ATP Synthesis under Physiological Conditions&nbsp;</b><div>In the cytosol of rat hepatocytes, the temperature is 37 °C and the mass-action ratio,&nbsp;Q, is<br></div><div><img src=\"paste-031c5f79f1f2a3c4ae07aa9a4fe4944da59f9544.png\"><br></div><div>Calculate the free energy required to synthesize ATP in a rat hepatocyte.<br></div>",
+                "<img src=\"paste-625e0f0784bce70ecb8f2030d4aebacc35ce6432.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c_F{b8EhU2",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><b>22. Daily ATP Utilization by Human Adults</b></div><div>(a) A total of 30.5 kJ/mol of free energy is needed to synthesize ATP from ADP and P<sub>i</sub>&nbsp;when the reactants and products are at 1&nbsp;M&nbsp;concentrations and the temperature is 25 °C (standard state). Because the actual physiological concentrations of ATP, ADP, and P<sub>i</sub>&nbsp;are not 1&nbsp;M, and the temperature is 37 °C, the free energy required to synthesize ATP under physiological conditions is different from ΔG′°. Calculate the free energy required to synthesize ATP in the human hepatocyte when the physiological concentrations of ATP, ADP, and P<sub>i</sub>&nbsp;are 3.5, 1.50, and 5.0 mM, respectively.</div><div>(b) A 68 kg (150 lb) adult requires a caloric intake of 2,000 kcal (8,360 kJ) of food per day (24 hours). The food is metabolized and the free energy is used to synthesize ATP, which then provides energy for the body’s daily chemical and mechanical work. Assuming that the efficiency of converting food energy into ATP is 50%, calculate the weight of ATP used by a human adult in 24 hours. What percentage of the body weight does this represent?</div><div>(c) Although adults synthesize large amounts of ATP daily, their body weight, structure, and composition do not change significantly during this period. Explain this apparent contradiction.</div>",
+                "<img src=\"paste-0742980c54f971a47627259b157a969a7d45c683.png\"><br><div>(c) The concentration of ATP in a healthy body is maintained in a steady state; this is an example<br></div><div> <div>of homeostasis, a condition in which the body synthesizes and breaks down ATP</div> <div>as needed.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N?TZ1;a/~7",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>24. Cleavage of ATP to AMP and PP<sub>i</sub>&nbsp;during Metabolism&nbsp;</b><div>Synthesis of the activated form of acetate (acetyl-CoA) is carried out in an ATP-dependent process:<br></div><div><img src=\"paste-da045ecf2e47f8317bd40035cdd434be3c623f35.png\"><br></div><div><div>(a) The ΔG′° for hydrolysis of acetyl-CoA to acetate and CoA is −32.2 kJ/mol and that for hydrolysis of ATP to AMP and PP<sub>i</sub>&nbsp;is −30.5 kJ/mol. Calculate ΔG′° for the ATP-dependent synthesis of acetyl-CoA.</div><div>(b) Almost all cells contain the enzyme inorganic pyrophosphatase, which catalyzes the hydrolysis of PP<sub>i</sub>&nbsp;to P<sub>i</sub>. What effect does the presence of this enzyme have on the synthesis of acetyl-CoA? Explain.</div></div>",
+                "<img src=\"paste-84c8721388e28615bbace3b110d103c0f71083da.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xaujW#W;2c",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>26. Standard Reduction Potentials</b><div>&nbsp;The standard reduction potential,&nbsp;E′°, of any redox pair is defined for the half-cell reaction:<br></div><div><img src=\"paste-f69a7b7afcc408a1ac3214b850135e7438a064f5.png\"><br></div><div><div>The&nbsp;E′° values for the NAD<sup>+</sup>/NADH and pyruvate/lactate conjugate redox pairs are −0.32 V and −0.19 V, respectively.</div><div>(a) Which redox pair has the greater tendency to lose electrons? Explain.</div><div>(b) Which pair is the stronger oxidizing agent? Explain.</div><div>(c) Beginning with 1&nbsp;M&nbsp;concentrations of each reactant and product at pH 7 and 25 °C, in which direction will the following reaction proceed?</div></div><div><img src=\"paste-a7edaa09cbf38fa9fd8121a00724dc9674e78ec8.png\"><br></div><div><div>(d) What is the standard free-energy change (ΔG′°) for the conversion of pyruvate to lactate?</div><div>(e) What is the equilibrium constant (&nbsp;K′<sub>eq</sub>) for this reaction?</div></div>",
+                "<div><img src=\"paste-67f7b6b094249e5c15936cf9f518a2808d8702fc.png\"><br></div><div><img src=\"paste-3cc86aff1b0f348ff5a2b6282d4d80966e220c6e.png\"><br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tC=v(_|dj/",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-92dfd5c2592e69e587b322db8d1eed307740280c.png\">",
+                "<img src=\"paste-0e965c8321d165418152a1255ed9fdbb0b57cb8f.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "owI8/AjE=/",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-8fc086a43450e28b30eac4f8127a55bd677a6ce2.png\">",
+                "<img src=\"paste-e9ce1cd4414f0b0a6005f9242e80c890772f6580.png\"><br><div><img src=\"paste-e0cd39f8f1d34c242ca7a385a131d5c4c5fa8e77.png\"><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zT4*jnWU0",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>If the ΔG° of the reaction A -&gt; B is -40 kJ/mol, under standard conditions the reaction:</div>",
+                "<div>will proceed spontaneously from left to right.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I:Gt?n72,e",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "QUIZTESTQSCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>For the reaction A--&gt; B, ΔG<sup>ο&nbsp;</sup>= -60 kJ/mol. The reaction is started with 10 mmol of A; no B is initially present. After 24 hours, analysis reveals the presence of 2 mmol of B, 8 mmol of A. Which is the most likely explanation?</div> <div><br></div>",
+                "<div>B formation is kinetically slow; equilibrium has not been reached by 24 hours.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "if;s>zCRG$",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "QUIZTESTQSCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>When a mixture of 3-phosphoglycerate and 2-phosphoglycerate is incubated at 25 °∆C with phosphoglycerate mutase until equilibrium is reached, the final mixture contains six times as much 2- phosphoglycerate as 3-phosphoglycerate. Which one of the following statements is most nearly correct, when applied to the reaction as written? (R = 8.315 J/mol K; T = 298 K)</div><div><div style=\"text-align: center;\">3-Phosphoglycerate -&gt; 2-phosphoglycerate</div></div>",
+                "<div>ΔG °∆ is -4.44 kJ/mol.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Hv|=|Krn+%",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>When a mixture of glucose 6-phosphate and fructose 6-phosphate is incubated with the enzyme phosphohexose isomerase (which catalyzes the interconversion of these two compounds) until equilibrium is reached, the final mixture contains twice as much glucose 6-phosphate as fructose 6- phosphate. Which one of the following statements is best applied to this reaction outlined below?</div> <div>(R = 8.315 J/molK; T = 298 K)</div> <div>Glucose 6-phosphate -&gt; fructose 6-phosphate</div>",
+                "<div>ΔG °∆ is +1.72 kJ/mol.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uVp;Ic%6$&",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Hydrolysis of 1 M glucose 6-phosphate catalyzed by glucose 6-phosphatase is 99% complete at equilibrium (i.e., only 1% of the substrate remains). Which of the following statements is most nearly correct? (R = 8.315 J/molK; T = 298 K)</div>",
+                "<div>ΔG °∆ = -11 kJ/mol</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fTa3!ZMH{P",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The reaction A + B -&gt; C has a ΔG °of -20 kJ/mol at 25°C. Starting under standard conditions, one can predict that:</div>",
+                "<div>at equilibrium, the concentration of C will be much greater than the concentration of A or B.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s)X`4|XJy#",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which of the following compounds has the largest negative value for the standard free-energy change (ΔG °) upon hydrolysis?</div>",
+                "<div>Acetic anhydride</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xe>c`1GPR$",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>For the following reaction, ΔG ° = +29.7 kJ/mol.</div> <div>L-Malate + NAD<sup>+</sup>&nbsp;-&gt; oxaloacetate + NADH + H<sup>+</sup></div> <div>The reaction as written:</div>",
+                "<div>Μay occur in cells at some concentrations of substrate and product.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kV;%~f%Uba",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>For the reaction A -&gt; B, the K<sub>eq</sub> <sup>'</sup> is 10<sup>4</sup>. If a reaction mixture originally contains 1 mmol of A and no B, which one of the following must be true?</div>",
+                "<div>At equilibrium, there will be far more B than A.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j0vb8{=z}~",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Ιn glycolysis, fructose 1,6-bisphosphate is converted to two products with a standard free-energy change (ΔG °) of 23.8 kJ/mol. Under what conditions encountered in a normal cell will the free- energy change (ΔG) be negative, enabling the reaction to proceed spontaneously to the right?</div>",
+                "<div>Under standard conditions, enough energy is released to drive the reaction to the right.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p&1&e+[%/)",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>During glycolysis, glucose 1-phosphate is converted to fructose 6-phosphate in two successive reactions:</div><div><img src=\"paste-33e0d8c78d6e47ce9bf1e9747d565d44f2381b9d.png\"><br></div><div><div>ΔG ° for the overall reaction is:</div></div>",
+                "<div>-5.4 kJ/mol.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O1$?6QI,@$",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The standard free-energy changes for the reactions below are given.</div><div><img src=\"paste-c7b641a9350fdbd88f505bbbba8eec5005c45003.png\"><br></div><div><div>What is the overall ΔG ° for the following reaction?</div> <div>Phosphocreatine + ADP -&gt; creatine + ATP</div></div>",
+                "<div>-12.5 kJ/mol</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HDDkkEQ<ES",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The AG °∆ values for the two reactions shown below are given.</div><div><img src=\"paste-979fb22ef895df7c9523290f2c0b96bb57e070fd.png\"><br></div>",
+                "<div>-30.3 kJ/mol</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bF.s+mE*AI",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The reaction ATP -&gt; ADP + P<sub>i</sub> is an example of a_________reaction.</div>",
+                "<div>group transfer</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P#LP?4_3)v",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>All of the following contribute to the large, negative, free-energy change upon hydrolysis of \"high­ energy\" compounds <i>except:</i><i></i></div>",
+                "<div>low activation energy of forward reaction.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "II^QG7rv#i",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The hydrolysis of ATP has a large negative ΔG °; nevertheless it is stable in solution due to:</div>",
+                "<div>Τhe hydrolysis reaction having a large activation energy.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LhQMv;0BV",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The hydrolysis of phosphoenolpyruvate proceeds with a ΔG ° of about -62 kJ/mol. The greatest contributing factors to this reaction are the destabilization of the reactants by electostatic repulsion and stabilization of the product pyruvate by:</div>",
+                "<div>tautomerization.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mVfsF6?5j3",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Which one of the following compounds does not have a large negative free energy of hydrolysis?</div>",
+                "<div>3-phosphoglycerate</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kk8H<B8z9O",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The immediate precursors of DNA and RNA synthesis in the cell all contain:</div>",
+                "<div>5' triphosphates.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rQnl^EE[i>",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Muscle contraction involves the conversion of:</div>",
+                "<div>chemical energy to kinetic energy.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I*f4%`}qFj",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Biological oxidation-reduction reactions always involve:</div>",
+                "<div>transfer of electron(s).</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l]i?u+;g:P",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Biological oxidation-reduction reactions never involve:</div>",
+                "<div>formation of free e<sup>-</sup>.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jv.jw(3C5r",
+            "note_model_uuid": "59379882-d71f-11e8-a8b0-3c15c2bd076a",
+            "tags": [
+                "HWCH13"
+            ]
+        }
+    ]
+}
